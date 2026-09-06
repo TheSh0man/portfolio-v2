@@ -101,7 +101,7 @@ export default function Hero() {
              {/* Fade the bottom edge of the image so it blends into the black page naturally */}
              <div className="absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-black to-transparent z-20" />
              <img 
-               src="/profile-bg-removed.png" 
+               src="/portfolio-v2/profile-bg-removed.png" 
                alt="Abdelrahman Shoman"
                className="w-full h-full object-contain object-bottom opacity-90 drop-shadow-2xl grayscale contrast-125"
              />

@@ -11,13 +11,13 @@ const projects = [
     brief:
       "Fully autonomous, computer-vision-based logistics platform using a custom YOLOv8 model to calculate physical box dimensions and optimize packing capacity in real-time.",
     tech: ["Python", "YOLOv8", "OpenCV", "Flask", "Deep Learning"],
-    image: "/projects/dimensionx-1.png",
+    image: "/portfolio-v2/projects/dimensionx-1.png",
     link: "https://github.com/TheSh0man/Dimension-X",
     images: [
-      "/projects/dimensionx-1.png",
-      "/projects/dimensionx-2.png",
-      "/projects/dimensionx-3.png",
-      "/projects/dimensionx-4.jpg",
+      "/portfolio-v2/projects/dimensionx-1.png",
+      "/portfolio-v2/projects/dimensionx-2.png",
+      "/portfolio-v2/projects/dimensionx-3.png",
+      "/portfolio-v2/projects/dimensionx-4.jpg",
     ],
     longDescription: `Dimension X is a smart box measurement and logistics dashboard. It utilizes advanced computer vision techniques and deep learning to instantly calculate the Length, Width, and Height of physical boxes using a standard camera. By placing an ArUco marker as a scale reference, the system calculates the exact physical dimensions from pixels.
 
@@ -36,17 +36,17 @@ The system replaces inaccurate manual measurements with high-precision AI calcul
     brief:
       "End-to-end data analysis project: raw data transformed into a comprehensive interactive dashboard with Dark/Light modes and dynamic filters.",
     tech: ["Excel", "Data Cleaning", "Pivot Tables", "Dashboarding"],
-    image: "/projects/excel-project.png",
+    image: "/portfolio-v2/projects/excel-project.png",
     link: "https://www.linkedin.com/posts/abdalrahmanshoman_dataanalysis-excel-creativa-activity-7364275063874801665-VVTm",
     images: [
-      "/projects/excel-project.png",
-      "/projects/excel-1.png",
-      "/projects/excel-2.png",
-      "/projects/excel-3.png",
-      "/projects/excel-4.png",
-      "/projects/excel-5.png",
-      "/projects/excel-6.png",
-      "/projects/excel-7.png",
+      "/portfolio-v2/projects/excel-project.png",
+      "/portfolio-v2/projects/excel-1.png",
+      "/portfolio-v2/projects/excel-2.png",
+      "/portfolio-v2/projects/excel-3.png",
+      "/portfolio-v2/projects/excel-4.png",
+      "/portfolio-v2/projects/excel-5.png",
+      "/portfolio-v2/projects/excel-6.png",
+      "/portfolio-v2/projects/excel-7.png",
     ],
     longDescription: `An end-to-end Data Analysis project transforming raw datasets into a comprehensive, interactive business dashboard.
 
@@ -68,13 +68,13 @@ Developed as part of the Creativa Innovation Hub, Mansoura.`,
     brief:
       "End-to-End Excel project for a fictional company 'Al-Aseel' (using real data), from data cleaning to advanced dashboarding.",
     tech: ["Excel", "Data Cleaning", "Pivot Tables", "Business Intelligence"],
-    image: "/projects/al-aseel-1.png",
+    image: "/portfolio-v2/projects/al-aseel-1.png",
     link: "", // No link provided yet
     images: [
-      "/projects/al-aseel-1.png",
-      "/projects/al-aseel-2.png",
-      "/projects/al-aseel-3.png",
-      "/projects/al-aseel-4.png",
+      "/portfolio-v2/projects/al-aseel-1.png",
+      "/portfolio-v2/projects/al-aseel-2.png",
+      "/portfolio-v2/projects/al-aseel-3.png",
+      "/portfolio-v2/projects/al-aseel-4.png",
     ],
     longDescription: `An end-to-end data analysis project for a fictional company "Al-Aseel" built with real-world datasets.
 
